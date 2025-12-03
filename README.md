@@ -1,4 +1,4 @@
-# WORKSHOP---5-License-Plate-Detection-using-OpenCV-and-Haar-Cascade-Classifier
+# WORKSHOP 5  License Plate Detection using OpenCV and Haar Cascade Classifier
 ### Name: Sakthi Vel S
 ### Reg no: 212223220090
 
